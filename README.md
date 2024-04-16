@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Priyadharshini</h1>
 <h3 align="center">A passionate Atomation Tester from India</h3>
 
-- 🔭 I’m currently learning **Playwrights**
+- 🔭 I’m currently learning **Playwright**
 
 - 🌱 I’m currently learning **API Testing**
 
